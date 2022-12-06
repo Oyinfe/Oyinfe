@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Oyinfe
+- 👋 Hi, I’m Adepeju
 - 👀 I’m interested in product design/project management 
 - 🌱 I’m currently learning product design/project management 
 - 💞️ I’m looking to collaborate on developing apps
